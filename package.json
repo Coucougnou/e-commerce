@@ -1,0 +1,19 @@
+{
+  "name": "ecommercevi",
+  "version": "1.0.0",
+  "description": "ecommercevie",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coucougnou/e-commerce.git"
+  },
+  "author": "Ngomegni Jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coucougnou/e-commerce/issues"
+  },
+  "homepage": "https://github.com/Coucougnou/e-commerce#readme"
+}
